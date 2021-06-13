@@ -7,7 +7,7 @@ plugins {
     id("org.jetbrains.compose") version "0.3.1"
 }
 
-group = "me.shiraishidaisuke"
+group = "com.kaiyujin"
 version = "1.0"
 
 repositories {
